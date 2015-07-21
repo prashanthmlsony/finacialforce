@@ -32,7 +32,7 @@ global class Application
 					Contestant__c.SObjectType => Contestants.Constructor.class });
 
 	/**
-	 * Class implements a Unit of Work factory
+	 * Class implements a Unit of Work factory adding comment in git
 	 **/
 	public class UnitOfWorkFactory
 	{
